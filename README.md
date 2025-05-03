@@ -20,7 +20,7 @@ This project aims to design an interactive Power BI dashboard that provides mean
 - Total Orders– Total number of orders placed
 - Average Pizzas per order– Average quantity of pizzas per order
 
- ## Charts Requirement
+ ### Charts Requirement
 - Daily Trend for Total Orders– Day-wise order patterns
 - Monthly Trend for Total Orders– Month-over-month growth or decline
 - Percentage of Sales by Pizza Category– Distribution of revenue by category
@@ -41,13 +41,18 @@ This project aims to design an interactive Power BI dashboard that provides mean
 <img width="605" alt="Pizza Sales Report 1" src="https://github.com/user-attachments/assets/6d868b21-2ead-4ba9-9841-940b00fe87ff" />
 <img width="611" alt="Pizza Sales Report Best and Worst Seller " src="https://github.com/user-attachments/assets/9f129496-c8d4-4fc3-a4ff-d4171f1e2fa3" />
 
-
-
 ## Key Insights
 - Identified top and bottom-selling pizzas for targeted promotions  
 - Uncovered daily and monthly order trends to support inventory planning  
 - Analyzed size and category preferences to tailor offerings  
 - Detected low-performing time slots and products for potential optimization
+
+## Final Conclusion
+The analysis revealed that the Classic Deluxe Pizza was the top performer, leading in revenue, orders, and quantity sold. Classic pizzas and Large sizes dominated sales, with peak order periods occurring on weekends and evenings. On the other hand, pizzas like Brie Carre and Spinach Supreme underperformed, suggesting opportunities for optimization or targeted marketing.
+
+This project underscores the efficacy of Power BI in transforming raw sales data into meaningful business insights. The dashboard facilitates quick comprehension of sales trends, identification of best-selling products, and informed decision-making to enhance profitability.
+
+
 
 
 
