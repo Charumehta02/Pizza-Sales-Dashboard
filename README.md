@@ -1,2 +1,6 @@
-# Pizza-Sales-Dashboard
-Developed a comprehensive Pizza Sales Dashboard in Power BI, covering data preprocessing, cleaning, and visualization. The dashboard provides key insights into sales performance, customer behavior, and product trends.
+# Pizza-Store-Data-Analysis (Interactive Dashboard Creation using Microsoft Power BI)
+## Project Objective
+This project aims to design an interactive Power BI dashboard that provides meaningful insights into pizza sales performance. By analyzing key metrics such as revenue trends, top-selling products, customer preferences, and order patterns, the dashboard aims to support data-driven decision-making for business optimization.
+
+## Dataset Used
+
