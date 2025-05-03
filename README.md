@@ -5,4 +5,25 @@ This project aims to design an interactive Power BI dashboard that provides mean
 ## Dataset Used
 -<a href="https://github.com/Charumehta02/Pizza-Sales-Dashboard/blob/main/pizza_sales%20excel%20file.xlsx">Dataset</a>
 
+## KPI's Requirement
+- Total Revenue
+- Average Order Value
+- Total Pizza Sold
+- Total Orders
+- Average Pizzas per order
+
+ ## Charts Requirement
+- Daily Trend for Total Orders
+- Monthly Trend for Total Orders
+- Percentage of Sales by Pizza Category
+- Percentage of Sales by Pizza Size
+- Total Pizzas Sold by Pizza Category
+- Top 5 Best Sellers by Revenue, Total Quantity and Total Orders
+- Bottom 5 Best Sellers by Revenue, Total Quantity and Total Orders
+
+- Dashboard Interaction <a href="https://github.com/Charumehta02/Pizza-Sales-Dashboard/blob/main/Pizza%20Sales%20dashboard.pbix">View Dashboard</a>
+
+
+
+
 
